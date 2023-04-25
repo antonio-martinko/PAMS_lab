@@ -21,36 +21,36 @@ interests:
 - Information Retrieval
 last_name: Wu
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Faculty of Kinesiogy, University of Zagreb
+  url: https://www.kif.unizg.hr/
+role: LABORATORY HEAD Assist. prof. Maroje Sorić
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
+  icon: envelope
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: /#contact
+  label: Feel free to contact us
+- display:
+    header: true
+  icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.hr/citations?user=GlSwdbwAAAAJ&hl=hr
+  label: See what we published
+- diplay:
+    header: true
+  icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+  link: https://github.com/antonio-martinko/PAMS_lab
+  label: Review the website code
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: PHYSICAL ACTIVITY MEASUREMENT AND SURVEILLANCE LABORATORY
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+There are two main areas of research that our laboratory deals with:
+
+• Research and development of objective methods for measuring physical activity\
+• Monitoring the population level of physical activity
 {style="text-align: justify;"}
