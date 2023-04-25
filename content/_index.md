@@ -9,79 +9,61 @@ sections:
 - block: features
   content:
     items:
-    - description: 100%
-      icon: 🏃
+    - description: physical activity in epidemiological research and clinical intervention studies
+      icon: 📏
       icon_pack: emoji
-      name: Physical activity and health
-    - description: 50%
-      icon: r-project
-      icon_pack: fab
-      name: R
-    - description: 80%
-      icon: chart-line
-      icon_pack: fas
-      name: Statistics
-    title: Skills
+      name: Measuring
+    - description: the population level of physical activity
+      icon: 🔎
+      icon_pack: emoji
+      name: Monitoring
+    - description: various systematic solutions for monitoring the level of physical activity
+      icon: 💡
+      icon_pack: emoji
+      name: Developing
+    title: Focus on physical activity
+    
 - block: experience
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
-      company_url: ""
-      date_end: ""
-      date_start: "2021-01-01"
+    - company: The European Network for the Support of Development of Systems for Monitoring Physical Fitness of Children and Adolescents (FitBack)
+      company_logo:
+      company_url: "https://www.fitbackeurope.eu/en-us/"
+      date_end: "2022-01-01"
+      date_start: "2020-01-01"
       description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
+          The main purpose of this project was to support the establishment of physical fitness surveillance programs by a single, multilingual online platform, FitBack, which provides feedback on specific, individual physical fitness outcomes from the Alpha fit test battery. Fitback contains key information for others to establish their own national, regional or local system for monitoring physical fitness in children and adolescents.
+      location: 
+      title: Erasmus plus SCP - Collaborative Partnerships
+    - company: Science and Technology in childhood Obesity Policy (STOP)
+      company_logo: 
+      company_url: "https://www.stopchildobesity.eu/"
+      date_end: "2022-01-01"
+      date_start: "2018-01-01"
+      description: Over 4.5 years (2018-22), the STOP project has generated scientifically sound, novel and policy-relevant evidence on the factors that have contributed to the spread of childhood obesity in European countries and on the effects of alternative technological and organisational solutions and policy options available to address childhood obesity.
+      location: 
+      title: Horizon 2020
+    - company: Young Researchers’ Career Development Project – Training New Doctoral Students
+      company_logo: 
+      company_url: "https://hrzz.hr/en/young-researchers/young-researchers-career-development/"
+      date_end: ""
+      date_start: "2018-01-01"
+      description: The goal of the project is to develop an integral and stable programme of funding young researchers at the doctoral and post-doctoral levels. This programme finances the development of scientific careers of young researchers, striving toward continuous education and exchange of knowledge with the ultimate aim of creating a network of scientists whose skills can compete in the international scientific community.
+      location: 
+      title: Croatian Science Foundation (HRZZ)
+    - company: Croatian Longitudinal Study of Physical Activity in Adolescence (CRO-PALS)
+      company_logo: 
+      company_url: "https://hrzz.hr/en/young-researchers/young-researchers-career-development/"
+      date_end: "2020-01-01"
       date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
-    title: Experience
+      description: This project built on the ongoing longitudinal research that began in 2014, and included 903 students from 14 randomly selected high schools in Zagreb. The results of this project enabled a better understanding of the determinants and moderators of physical activity and sedentary behaviors in young people. It contributed to scientifically based planning of targeted intervention programs for the primary prevention of chronic diseases.
+      location: 
+      title: Croatian Science Foundation (HRZZ)
+    title: Projects
   design:
     columns: "2"
-- block: accomplishments
-  content:
-    date_format: Jan 2006
-    items:
-    - certificate_url: https://www.coursera.org
-      date_end: ""
-      date_start: "2021-01-25"
-      description: ""
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
-      url: ""
-    - certificate_url: https://www.edx.org
-      date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
-      description: ""
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
-      url: ""
-    subtitle: null
-    title: Accomplish&shy;ments
-  design:
-    columns: "2"
+
 - block: collection
   content:
     count: 5
@@ -104,32 +86,27 @@ sections:
     columns: "2"
     view: compact
   id: posts
+  
 - block: portfolio
   content:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
+    - name: Reformat Data
       tag: Deep Learning
     - name: Other
       tag: Demo
     default_button_index: 0
     filters:
       folders:
-      - project
-    title: Projects
+      - tools
+    title: Tools
   design:
     columns: "1"
     flip_alt_rows: false
     view: showcase
   id: projects
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-  design:
-    columns: "1"
+  
 - block: collection
   content:
     filters:
@@ -141,6 +118,7 @@ sections:
     columns: "2"
     view: card
   id: featured
+  
 - block: collection
   content:
     filters:
@@ -155,12 +133,13 @@ sections:
   design:
     columns: "2"
     view: citation
-- block: collection
+    
 - block: tag_cloud
   content:
     title: Popular Topics
   design:
     columns: "2"
+    
 - block: contact
   content:
     address:
