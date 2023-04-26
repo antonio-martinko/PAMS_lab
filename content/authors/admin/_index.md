@@ -3,7 +3,7 @@ bio:
 institution:
 - name: Faculty of Kinesiogy, University of Zagreb
   url: https://www.kif.unizg.hr/
-role: LABORATORY HEAD Assist. prof. Maroje Sorić
+role: LABORATORY HEAD Assoc. prof. Maroje Sorić
 social:
 - display:
     header: true

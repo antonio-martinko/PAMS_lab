@@ -15,9 +15,9 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
-    org_name: ''
+    org_name: 'Physical activity measurement and surveillance laboratory'
     description: 'A website that belongs to the PHYSICAL ACTIVITY MEASUREMENT AND SURVEILLANCE LABORATORY from the Faculty of Kinesiology, University of Zagreb.'
     twitter: ''
   analytics:

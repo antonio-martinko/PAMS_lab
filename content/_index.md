@@ -6,6 +6,7 @@ sections:
     text: null
     username: admin
   id: about
+  
 - block: features
   content:
     items:
@@ -22,6 +23,24 @@ sections:
       icon_pack: emoji
       name: Developing
     title: Focus on physical activity
+    
+- block: features
+  content:
+    items:
+    - description: MD; PhD in biomedical sciences. Associate Professor in Physical Activity and Health at the Department of Sport and Exercise Medicine at the Faculty of Kinesiology, University of Zagreb, Croatia and Research Associate at the Faculty of Sport, University of Ljubljana, Slovenia. ![Picture of Lab head](/assets/media/albums/members/Maroje_Soric.jpg "Assoc. prof. Maroje Sorić")
+      icon: 
+      icon_pack: emoji
+      image: 
+      name: Maroje Sorić
+    - description: Master's degree in Kinesiology and a PhD Candidate at Macquarie University. Her doctoral research is being conducted within the framework of the Cotutelle program agreed between the two universities. She is employed on the Young Researchers’ Career Development Project.
+      icon: 
+      icon_pack: emoji
+      name: Petra Jurić
+    - description: Master's degree in Kinesiology and a PhD Candidate at the Faculty of Kinesiology, University of Zagreb, Croatia. He is employed on the Young Researchers’ Career Development Project.
+      icon: 
+      icon_pack: emoji
+      name: Antonio Martinko
+    title: Meet the lab
     
 - block: experience
   content:
@@ -159,7 +178,7 @@ sections:
         captcha: false
       provider: netlify
     office_hours:
-    - Consultations as scheduled through e-mail
+    - Consultations as scheduled through e-mail.
     subtitle: null
     text: Contact us here if you have any questions.
     title: Contact
