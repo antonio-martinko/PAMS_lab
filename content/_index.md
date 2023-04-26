@@ -28,17 +28,10 @@ sections:
   content:
     items:
     - description: MD; PhD in biomedical sciences. Associate Professor in Physical Activity and Health at the Department of Sport and Exercise Medicine at the Faculty of Kinesiology, University of Zagreb, Croatia and Research Associate at the Faculty of Sport, University of Ljubljana, Slovenia. ![Picture of Lab head Assoc. prof. Maroje Sorić](Maroje_Soric.jpg "")
-      icon: 
-      icon_pack: emoji
-      image: 
       name: Maroje Sorić
-    - description: Master's degree in Kinesiology and a PhD Candidate at Macquarie University. Her doctoral research is being conducted within the framework of the Cotutelle program agreed between the two universities. She is employed on the Young Researchers’ Career Development Project. <img src="assets/media/albums/members/Petra_Juric.jpg" alt="Picture of Lab member PhD Petra Jurić">
-      icon: 
-      icon_pack: emoji
+    - description: Master's degree in Kinesiology and a PhD Candidate at Macquarie University. Her doctoral research is being conducted within the framework of the Cotutelle program agreed between the two universities. She is employed on the Young Researchers’ Career Development Project. ![Picture of Lab member PhD Petra Jurić](Petra_Juric.jpg "")
       name: Petra Jurić
-    - description: Master's degree in Kinesiology and a PhD Candidate at the Faculty of Kinesiology, University of Zagreb, Croatia. He is employed on the Young Researchers’ Career Development Project.
-      icon: 
-      icon_pack: emoji
+    - description: Master's degree in Kinesiology and a PhD Candidate at the Faculty of Kinesiology, University of Zagreb, Croatia. He is employed on the Young Researchers’ Career Development Project. ![Picture of Lab member MSc Antonio Martinko](Antonio_Martinko.jpg "")
       name: Antonio Martinko
     title: Meet the lab
     
